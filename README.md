@@ -1,8 +1,8 @@
 
 ### Hi there 👋
 
-I'm Colin, a junior at USC studying Computer Science. 
+I'm Colin, currently a senior at USC studying Computer Science. 
 
-Currently, I'm the Director of Development at [USC Lavalab](https://usclavalab.org/), and also a software developer at [CarbonLink](https://carbonlink.io/). I've previously interned at [Coinbase](https://www.coinbase.com/) and [TAIGER](https://taiger.com/), founded [Punchcard](https://www.punchcardapp.com/) (an app to purchase subscriptions from local businesses), and coached fitness lessons at F45 training :) 
+I've previously interned at [Stripe](https://www.stripe.com), [Coinbase](https://www.coinbase.com/), and [TAIGER](https://taiger.com/). I've also built [Punchcard](https://www.punchcardapp.com/) (an app to purchase subscriptions from local businesses), helped develop a carbon offsetting platform at [CarbonLink](https://www.carbonlink.io/), and coached fitness lessons at F45 training :) 
 
 🙈 Visit my website for more: [colinho.me](https://colinho.me)
